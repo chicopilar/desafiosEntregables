@@ -10,5 +10,4 @@ function mostrarLista() {
     console.log (`la lista tiene ${namesList.length} elementos`);
     }
 }
-
 mostrarLista()
